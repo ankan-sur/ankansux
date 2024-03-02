@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ankan 
-- 👀 I’m interested in AI, Metaverse, immersive media. 
-- 🌱 I’m currently learning basic programming and CSE. 
-- 💞️ I’m looking to collaborate on nothing yet tbh
-- 📫 How to reach me surankan@msu.edu
+### I like learning and building stuff :)
+I am super eager to just do.
+Reach out to me @ surankan@msu.edu :)
 
